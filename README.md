@@ -1,57 +1,35 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,35:1a0000,70:8B0000,100:ff003c&text=Shubham%20Shinde&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps%20|%20IAM%20|%20PAM&descAlignY=58&descSize=18"
-  />
-</p>
+<!-- ========================= -->
+<!-- DARK RED CYBERPUNK DEVOPS README -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner;WebLogic+Administrator;Cloud+%26+Automation+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=Shubham%20Shinde&fontSize=65&fontColor=ffffff&animation=fadeIn&color=0:000000,25:140000,50:3b0000,75:8B0000,100:ff003c&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps%20|%20IAM%20|%20PAM&descAlignY=65&descSize=18" />
 </p>
-
-## About Me
-
--  Working on Middleware & WebLogic Administration
--  Learning AWS DevOps and Automation
--  Linux Administrator
--  Interested in Cloud and Infrastructure
--  Goal: Become a DevOps Engineer
-
----
-
-## Technologies & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,aws,bash,python,git,github,docker" />
-
-</p>
-
----
-
-## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubham990918&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham990918&theme=tokyonight" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=FF003C&center=true&vCenter=true&width=900&lines=Building+Secure+Infrastructure...;Automating+Everything...;Linux+%7C+Cloud+%7C+DevOps+%7C+Security;Middleware+Engineer+from+India" />
 </p>
 
 ---
 
-## Connect With Me
+# ⚡ CYBERPUNK DEVOPS PROFILE
 
-- GitHub: https://github.com/shubham990918
-- LinkedIn: https://www.linkedin.com/in/shubham-shinde-aa9071a3
-- YouTube: 
+```bash
+> whoami
+Shubham Shinde
 
----
+> role
+Middleware Engineer
 
-## Fun Fact
+> specialization
+Linux / AWS / DevOps / IAM / PAM
 
-I enjoy working with Linux servers and troubleshooting enterprise systems.
+> status
+Building scalable and secure infrastructure
+```
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+🔥 TECH STACK
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,bash,terraform,git,github,jenkins,ansible,prometheus,grafana,vim,py" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubham990918)](https://github.com/ryo-ma/github-profile-trophy)
+🩸 SYSTEM STATUS
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham990918&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=ff003c&icon_color=ff003c&text_color=ffffff&border_color=8B0000"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham990918&layout=compact&theme=radical&bg_color=0d0d0d&title_color=ff003c&text_color=ffffff&border_color=8B0000"/> </p>
