@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Shubham%20Shinde&fontSize=65&fontColor=ffffff&animation=fadeIn&color=0:000000,25:140000,50:3b0000,75:8B0000,100:ff003c&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps%20|%20IAM%20|%20PAM&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Shubham%20Shinde&fontSize=65&fontColor=ffffff&animation=twinkling&color=0:000000,25:140000,50:3b0000,75:8B0000,100:ff003c&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps%20|%20IAM%20|%20PAM&descAlignY=65&descSize=18"/>
 </p>
 
 <p align="center">
