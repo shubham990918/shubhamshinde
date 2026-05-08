@@ -14,11 +14,11 @@
 
 ## About Me
 
-- 🔭 Working on Middleware & WebLogic Administration
-- 🌱 Learning AWS DevOps and Automation
-- 🐧 Linux Enthusiast
-- ☁️ Interested in Cloud and Infrastructure
-- 🎯 Goal: Become an AWS DevOps Engineer
+-  Working on Middleware & WebLogic Administration
+-  Learning AWS DevOps and Automation
+-  Linux Enthusiast
+-  Interested in Cloud and Infrastructure
+-  Goal: Become an DevOps Engineer
 
 ---
 
