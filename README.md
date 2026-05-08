@@ -18,7 +18,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=220&section=header&text=Shubham%20Shinde&fontSize=50&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000428,100:004e92&height=220&section=header&text=Shubham%20Shinde&fontSize=55&fontColor=00FFFF&animation=blinking"
   />
 </p>
 
