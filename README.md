@@ -54,3 +54,5 @@ Middleware Engineer | Linux | AWS | WebLogic | DevOps Learner
 I enjoy working with Linux servers and troubleshooting enterprise systems.
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
