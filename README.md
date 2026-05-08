@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Middleware+Engineer;Linux+Administrator;AWS+DevOps+Learner)](https://git.io/typing-svg)
 
 
 <h1 align="center">
