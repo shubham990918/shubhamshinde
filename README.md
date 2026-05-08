@@ -129,7 +129,7 @@ Code → GitHub → Jenkins → Docker → Kubernetes → Monitoring → Product
   <img src="https://img.shields.io/badge/LinkedIn-140000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/>
 </a>
 
-<a href="shubham.shinde051995@gmail.com">
+<a href="mailto:shubham.shinde051995@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
 </a>
 
