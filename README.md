@@ -47,7 +47,7 @@
 ## Connect With Me
 
 - GitHub: https://github.com/shubham990918
-- LinkedIn: https://www.linkedin.com/in/shubham-shinde-aa9071a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/shubham-shinde-aa9071a3
 - YouTube: 
 
 ---
