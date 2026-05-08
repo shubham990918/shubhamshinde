@@ -16,6 +16,12 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=220&section=header&text=Shubham%20Shinde&fontSize=50&fontColor=ffffff"
+  />
+</p>
+
 <h3 align="center">
   Middleware Engineer • Linux • AWS • WebLogic • DevOps
 </h3>
