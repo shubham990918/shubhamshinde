@@ -4,12 +4,6 @@
   />
 </p>
 
-<h1 align="center">
-  "Hey there", I'm Shubham Shinde
-</h1>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0d7d5c-7f55-4c6d-8f2d-0ebf2f7c5a9b.gif" width="100%">
-
 <h3 align="center">
   Middleware Engineer • Linux • AWS • WebLogic • DevOps
 </h3>
