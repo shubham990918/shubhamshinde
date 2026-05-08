@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Shubham%20Shinde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Middleware%20Engineer%20|%20Linux%20|%20AWS%20|%20DevOps&descAlignY=55&descSize=20"
+  />
+</p>
 
 <h1 align="center">
   "Hey there", I'm Shubham Shinde
